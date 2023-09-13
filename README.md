@@ -1,4 +1,4 @@
 # git-with-vscode
 this is demo for connection to check it git and github
 <br>
-author Ravi kumar namdev
+author: Ravi namdev(github demo)
